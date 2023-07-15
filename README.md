@@ -14,10 +14,6 @@
 </p>
 
 <p align="left">
-  📍 Brasília, DF.
-</p>
-
-<p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
 
