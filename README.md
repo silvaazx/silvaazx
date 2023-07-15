@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, me chamo Silva e atuo atualmente na área de <strong>Desenvolvimento Web</strong>.<br>
-  Sou apaixonado pela Área de Programação e em desenvolver códigos, atualmente membro da @Fifty.
+  Olá, me chamo <strong>Silva</strong> e atuo atualmente na área de <strong>Desenvolvimento Web</strong>.<br>
+  Sou apaixonado pela área de programação e em desenvolver códigos, atualmente membro da <strong>@FiftyGroup</strong>.
 </p>
 
 <p align="left">
@@ -11,6 +11,10 @@
 
 <p align="left">
   💼 Ferramentas: <strong>Visual Studio Code e Sublime Text 4.</strong>
+</p>
+
+<p align="left">
+  📍 Brasília, DF.
 </p>
 
 <p align="left">
