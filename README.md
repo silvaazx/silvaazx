@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, me chamo Silva e atuo atualmente na área de <strong>Desenvolvimento Web</strong>.<br>
-  Atualmente estudo JavaScript e um pouco de Desenvolvimento de Jogos.
+  Sou apaixonado pela Área de Programação e em desenvolver códigos, atualmente membro da @Fifty.
 </p>
 
 <p align="left">
